@@ -52,3 +52,17 @@ alert(soma2)*/
     alert('O número 10 é ${resultado1}')
 }*/
 
+//Exemplo 6 - funções anônimas
+/*document.querySelector("button").addEventListener("click", function() {
+ alert("Clicou no botão")
+})*/
+
+//Exemplo 7 - arrow function
+/*document.querySelector("button").addEventListener("click", () => {
+    alert("Clicou no botão")
+})*/ 
+
+//Exemplo 9 - arrow functions com variáveis
+let somar = (valor1, valor2) => valor1 + valor2
+let resultadoSoma = somar(20, 30)
+alert(resultadoSoma)
