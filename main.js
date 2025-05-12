@@ -49,7 +49,7 @@ alert(soma2)*/
     let resultado2 = parOuImpar(15)
 
     alert('O número 10 é ${resultado1}')
-    alert('O número 10 é ${resultado1}')
+    alert('O número 15 é ${resultado2}')
 }*/
 
 //Exemplo 6 - funções anônimas
