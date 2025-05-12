@@ -62,7 +62,7 @@ alert(soma2)*/
     alert("Clicou no botão")
 })*/ 
 
-//Exemplo 9 - arrow functions com variáveis
+//Exemplo 8 - arrow functions com variáveis
 let somar = (valor1, valor2) => valor1 + valor2
 let resultadoSoma = somar(20, 30)
 alert(resultadoSoma)
